@@ -23,7 +23,7 @@ public class CheckService implements CheckServiceInterface {
 	@Autowired
 	private RestTemplate restTemplate;
 	
-	private static final String PROCESSBASEURL = "http://PROCESS-SERVICE/process";
+	private static final String PROCESSBASEURL = "http://PROCESSING-SERVICE/process";
 
 	
 

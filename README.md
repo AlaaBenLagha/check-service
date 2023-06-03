@@ -1,2 +1,2 @@
 # check-service
-PFE Project
+Demo Spring Cloud
